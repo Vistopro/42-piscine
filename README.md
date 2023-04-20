@@ -35,5 +35,14 @@
 **C Piscine C 08**
 [![vicrodri's 42 C Piscine C 08 Score](https://badge42.vercel.app/api/v2/clgp7lvb5006808k3q0ze391u/project/3046466)](https://github.com/JaeSeoKim/badge42)
 
+**C Piscine Exam 00**
+[![vicrodri's 42 C Piscine Exam 00 Score](https://badge42.vercel.app/api/v2/clgp7lvb5006808k3q0ze391u/project/3021335)](https://github.com/JaeSeoKim/badge42)
+
+**C Piscine Exam 01**
+[![vicrodri's 42 C Piscine Exam 01 Score](https://badge42.vercel.app/api/v2/clgp7lvb5006808k3q0ze391u/project/3028775)](https://github.com/JaeSeoKim/badge42)
+
+**C Piscine Exam 02**
+[![vicrodri's 42 C Piscine Exam 02 Score](https://badge42.vercel.app/api/v2/clgp7lvb5006808k3q0ze391u/project/3039008)](https://github.com/JaeSeoKim/badge42)
+
 **C Piscine Final Exam**
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clgp7lvb5006808k3q0ze391u/project/3046241" alt="vicrodri's 42 C Piscine Final Exam Score" /></a>
